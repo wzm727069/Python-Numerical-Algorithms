@@ -18,7 +18,7 @@
 
 * Integration
 * Initial-Value Problems using Runge-Kutta 4
-* Two-Point Boundary Value Problems using the shooting method
+* Two-Point Boundary value problems using the Shooting Method
 
 ### Test Environment
 The code will be tested with Python 3.5 in a Ubuntu environment 
