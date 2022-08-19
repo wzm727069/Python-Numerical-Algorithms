@@ -1,4 +1,4 @@
-# A1: Systems of Linear Algebraic Equations
+# COMP361 - Numerical Methods F2019
 
 
 ## Important note
