@@ -3,7 +3,7 @@
 
 ### test1 - Systems of Linear Algebraic Equations
 
-#### Resolution of linear systems for polynomial interpolation
+* Resolution of linear systems for polynomial interpolation
 
 ### Test environment and live feedback.
 
