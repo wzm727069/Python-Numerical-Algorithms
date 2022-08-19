@@ -3,11 +3,7 @@
 
 ### test1 - Systems of Linear Algebraic Equations
 
-This assignment must be submitted individually. You are encouraged to 
-discuss and exchange solutions during the tutorial sessions or on 
-Slack, but you are *not allowed* to share code electronically. 
-Plagiarism, unauthorized collaboration and other offences under 
-Concordia's [Academic Code of Conduct](http://www.concordia.ca/students/academic-integrity/offences.html) will be firmly handled. 
+#### Resolution of linear systems for polynomial interpolation
 
 ### Test environment and live feedback.
 
