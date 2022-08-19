@@ -1,7 +1,7 @@
 # COMP361 - Numerical Methods F2019
 
 
-## Important note
+### test1 - Systems of Linear Algebraic Equations
 
 This assignment must be submitted individually. You are encouraged to 
 discuss and exchange solutions during the tutorial sessions or on 
